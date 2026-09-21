@@ -99,7 +99,7 @@ Integrations          ███████████████████�
 
 I'm interested in **Full Stack / Frontend / Backend engineering opportunities**, especially teams building modern digital products.
 
-* 💼 LinkedIn: [[Add your LinkedIn URL]](https://www.linkedin.com/in/icabrerag/)
+* 💼 LinkedIn: [https://www.linkedin.com/in/icabrerag/]
 * 🌐 Portfolio: In Process
 * 📧 Email: icabrera.g17@gmail.com
 
