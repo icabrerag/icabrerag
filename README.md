@@ -16,7 +16,7 @@ My main stack is **Next.js, React, TypeScript, Python and FastAPI**, with experi
 * 🗄️ Working with relational databases such as **MySQL & PostgreSQL**
 * 🐳 Containerizing applications with **Docker**
 * 🔐 Experience with authentication, authorization and role-based systems
-* 💳 Experience integrating payment providers and transactional workflows
+* 💳 Experience integrating third-party services and transactional workflows
 * 🤖 Using AI-assisted development tools to improve development workflows
 * 🌎 Open to remote opportunities and international teams
 
@@ -26,46 +26,19 @@ My main stack is **Next.js, React, TypeScript, Python and FastAPI**, with experi
 
 ### Frontend
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+Next.js · React · TypeScript · JavaScript · Tailwind CSS
 
 ### Backend
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+Python · FastAPI · Node.js · .NET
 
 ### Databases & Tools
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+MySQL · PostgreSQL · Docker · Git · GitHub
 
 ---
 
-## ⭐ Featured Work
-
-### 📊 Business Management Platform
-
-Full-stack business platform for managing financial records, employees, projects, payments and inventory.
-
-**Tech:** Next.js · React · FastAPI · MySQL · Docker
-
----
-
-### 🐮 LaVaquita
-
-Collaborative payment platform designed for events, birthdays and group experiences, including guest access, transactional workflows and payment-provider integrations.
-
-**Tech:** Next.js · FastAPI · MySQL · Docker · Mercado Pago
-
----
+## ⭐ Featured Projects
 
 ### 💰 Deuda Cero
 
@@ -80,6 +53,29 @@ Personal finance application focused on budgeting, debt management, monthly plan
 Full-stack invoice management application with business rules, credit notes, reports, filtering and automatic status calculation.
 
 **Tech:** Next.js · TypeScript · .NET 8 · ASP.NET Core · Entity Framework
+
+---
+
+## 💼 Professional Experience Highlights
+
+### 📊 Business Management Platform
+
+Contributed to the development and maintenance of an internal full-stack business platform supporting operational and administrative workflows.
+
+Worked on areas including:
+
+* Financial and accounting processes
+* Inventory management
+* User roles and permissions
+* REST API development
+* Authentication and authorization
+* Relational database workflows
+* Dockerized development environments
+* Third-party integrations
+
+**Main technologies:** Next.js · React · FastAPI · MySQL · Docker
+
+> Some professional projects and implementation details are not publicly available due to confidentiality and intellectual property restrictions.
 
 ---
 
@@ -99,8 +95,8 @@ Integrations          ███████████████████�
 
 I'm interested in **Full Stack / Frontend / Backend engineering opportunities**, especially teams building modern digital products.
 
-* 💼 LinkedIn: [https://www.linkedin.com/in/icabrerag/]
-* 🌐 Portfolio: In Process
+* 💼 LinkedIn: https://www.linkedin.com/in/icabrerag/
+* 🌐 Portfolio: In Process...
 * 📧 Email: icabrera.g17@gmail.com
 
 ---
